@@ -1,0 +1,41 @@
+----------------------------------
+
+Sprint6 – Priority Table
+
+Required and Manditory (missing - 0 for sprint)
+    [ ] YouTube Video linked and works without login
+    [ ] Volume loud and easily understood (balanced between audio and speaker levels)
+    [ ] Verified perforce submission, builds "as-is" by double clicking sln file
+    [ ] Video can NEVER exceed 10 min total
+    [ ] Demo functionality by running the code, no show, no grade for feature
+    [ ] Code demo'd needs to match the code submitted to perforce
+    [ ] PDF needs to filled out completely
+    [ ] No Prohibited C++ - lambda, generics, properties, arrays etc
+    [ ] NO temporary, auto generated files submitted to perforce.. NONE... 
+    [ ] Needs to be recorded in Stereo (Should be obvious)
+
+Graded requirements:
+
+    [ ] 1pt Printing the priority table with Handle, priority, duration in ms
+
+
+    [ ] 2pt Following the example in document...
+            Correctly preempting snd calls or blocking sounds based on their 
+            priority order and duration combination
+            Does the demo work correctly?
+            
+    [ ] 2pt Explain and Diagram Priority table update
+
+    [ ] 1pt Explain entry gets removed
+
+    Total points possible: 6 pts
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Feedback below:
+
+----------------------------------

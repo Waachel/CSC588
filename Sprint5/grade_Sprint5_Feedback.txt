@@ -1,0 +1,43 @@
+----------------------------------
+
+Sprint5 – Async loading
+
+Required and Manditory (missing - 0 for sprint)
+    [ ] YouTube Video linked and works without login
+    [ ] Volume loud and easily understood (balanced between audio and speaker levels)
+    [ ] Verified perforce submission, builds "as-is" by double clicking sln file
+    [ ] Video can NEVER exceed 10 min total
+    [ ] Demo functionality by running the code, no show, no grade for feature
+    [ ] Code demo'd needs to match the code submitted to perforce
+    [ ] PDF needs to filled out completely
+    [ ] No Prohibited C++ - lambda, generics, properties, arrays etc
+    [ ] NO temporary, auto generated files submitted to perforce.. NONE... 
+    [ ] Needs to be recorded in Stereo (Should be obvious)
+
+Graded requirements:
+
+    [ ] 2pt Async flile loading callback for Beethoven
+            Triggers a Play for beethoven song in callback
+
+    [ ] 1pt Following the example in document...
+            All started at time 0,  501-play, 502 - play, 503 async load
+            Every 5 seconds play 502
+            Printing the table at the correct points
+
+    [ ] 1pt Async File Callback executing on Game thread
+
+    [ ] 2pt Explain and Diagram Async Callback
+
+    [ ] 1pt Explain table entry gets removed
+
+    Total points possible: 7 pts
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Feedback below:
+
+----------------------------------

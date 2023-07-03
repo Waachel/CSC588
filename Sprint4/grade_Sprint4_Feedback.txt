@@ -1,0 +1,42 @@
+----------------------------------
+
+Sprint4 – Callbacks
+
+Required and Manditory (missing - 0 for sprint)
+    [ ] YouTube Video linked and works without login
+    [ ] Volume loud and easily understood (balanced between audio and speaker levels)
+    [ ] Verified perforce submission, builds "as-is" by double clicking sln file
+    [ ] Video can NEVER exceed 10 min total
+    [ ] Demo functionality by running the code, no show, no grade for feature
+    [ ] Code demo'd needs to match the code submitted to perforce
+    [ ] PDF needs to filled out completely
+    [ ] No Prohibited C++ - lambda, generics, properties, arrays etc
+    [ ] NO temporary, auto generated files submitted to perforce.. NONE... 
+    [ ] Needs to be recorded in Stereo (Should be obvious)
+
+Graded requirements:
+
+    [ ] 2pt Callback stitching together Seinfeld audio samples
+            Option 1 or Option 2 - Callback triggers new audio by voice or buffer
+
+    [ ] 1pt Explain your code
+            How it works with callback
+	    Convince in your video that you understand the callback mechanism with loading new sounds
+
+    [ ] 1pt Treating audio with stitching as a single call with Panning.
+            Pan Right 10 sec, Pan Left 10 sec, Pan center 10 sec repeat until end
+
+    [ ] 1pt Clean shutdown with no Memory leaking
+            Must show the shutdown with memory pass banners
+
+    Total points possible: 5 pts
+
+----------------------------------
+
+       Final Score: 0.0
+
+----------------------------------
+
+Feedback below:
+
+----------------------------------
