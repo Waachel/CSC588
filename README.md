@@ -3,7 +3,7 @@
 For CSC588, I learned about real-time constrained multithreaded architecture. Topics covered include multithreaded handle development, inter-thread communication, creating systems for user-defined callbacks, asynchronous loading and streaming of resources, non-blocking threading synchronization, design patterns and data driven messaging with time delivery constraints. For the final project, I created an Audio Engine that integrated the existing single and multithreaded middleware libraries.
 
 ## Final Project Description
-The final project included 
+The final project includes 
 * Basic audio features
   * XAudio2 Voices
   * Volume, pan, pitch
